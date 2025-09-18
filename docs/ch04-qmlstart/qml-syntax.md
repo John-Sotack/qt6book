@@ -33,7 +33,7 @@ You can run the example using the Qt Quick runtime from the command line from yo
 
     $ $QTDIR/bin/qml RectangleExample.qml
 
-Where you need to replace the `$QTDIR` to the path to your Qt installation. The `qml` executable initializes the Qt Quick runtime and interprets the provided QML file.
+Where you need to replace the `$QTDIR` to the path to your Qt kit installation. The `qml` executable initializes the Qt Quick runtime and interprets the provided QML file. To avoid an error from qml, you need to provide the file assets/triangle_red.png. 
 
 In Qt Creator, you can open the corresponding project file and run the document  `RectangleExample.qml`.
 :::
