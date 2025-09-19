@@ -153,7 +153,7 @@ Image {
 ![](./assets/image.png)
 
 ::: tip
-A URL can be a local path with forward slashes ( “./images/home.png” ) or a web-link (e.g. “[http://example.org/home.png](http://example.org/home.png)”).
+A URL can be a local path with forward slashes ( “./images/home.png” ) or a web-link (e.g. “[http://example.org/home.png](http://example.org/home.png)” or for a local file "file:///c:\\images\\triangle.png").
 :::
 
 ::: tip
